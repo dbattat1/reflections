@@ -1,0 +1,6 @@
+If I made a change in the code and then something
+doesn't work right, it would be reasonable that
+the diffrence between the old version and the new version
+will make the source of the problem.
+
+It makes the task of finding the diffrences between the versions much more rapid.
